@@ -12,8 +12,8 @@
      <style>
          
       
-      body{
-    /* background-color: rgb(19 3 27) !important; */
+ body{
+    background-color: rgb(19 3 27) !important; 
     font-family: bsahar !important;
     color: rgba(190, 190, 190, 0.644);
     background-color: #f6f6f666 !important;
@@ -128,7 +128,7 @@ body{
  @media (max-width: 1200px){
     .vid{
         
-        position: absolute;
+ position: absolute;
         top: 10rem;
         
     }
@@ -156,23 +156,19 @@ body{
         position: relative;
         
         
-    }
+}
     .section2-div{
         margin-top: 15rem;
     }
    }
    @media (max-width: 770px){
     .section2-div{
-        
-        margin-top: 30rem;
-        
+            margin-top: 30rem;     
     }
    }
    @media (max-width: 1200px){
     .vid-c{
-        
-        display: block !important;
-        
+             display: block !important;
     }
    }
    .vid-c{
@@ -183,19 +179,19 @@ body{
    @media (max-width: 850px){
     .sec{
         
-        margin-top: 7rem;
+ margin-top: 7rem;
     }
    }
    @media (max-width: 730px){
     .sec{
         
-        margin-top: 9rem;
+ margin-top: 9rem;
     }
    }
    @media (max-width: 640px){
     .sec{
         
-        margin-top: 12rem;
+ margin-top: 12rem;
     }
    }
 
@@ -284,8 +280,7 @@ body{
 @media (max-width: 770px){
     .f1{
         
-        display: inline-block !important;
-        
+display: inline-block !important;    
     }
    }
    .f1{
@@ -299,9 +294,9 @@ body{
    @media (max-width: 700px){
     .acc{
         
-        display: inline-block !important;
+display: inline-block !important;
         
-    }
+}
    }
 .footer{
     height: 24rem;
@@ -322,12 +317,12 @@ body{
 <body class="">
     <header class="header container " >
 
-      <div class="alert alert-warning alert-dismissible fade show" style="position: fixed; z-index: 100; opacity: .9;" role="alert">
+<div class="alert alert-warning alert-dismissible fade show" style="position: fixed; z-index: 100; opacity: .9;" role="alert">
         <strong><a href="singup.html">ثبت نام</a> </strong>لطفا اگر در سایت ثبت نام نکرده اید این کار را انجام دهید.
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
       </div>
 
-        <nav class="navbar navbar-expand-lg">
+<nav class="navbar navbar-expand-lg">
             <a href="../html/arabi.html">
             <img style="height: 5rem; width: 7rem;border-radius: 12rem; color: aliceblue !important;background-color: wheat;" src="../img/م.jpeg" alt="">
             </a>
@@ -354,22 +349,22 @@ body{
                   </li>
                 </ul>
                 
-                <div style=" position: absolute; left: 0; z-index: 100;">
+<div style=" position: absolute; left: 0; z-index: 100;">
               <a  class="navbar-brand  hov me-" style="padding-left: 1rem; padding-right: 1rem;" href="../html/login.html">ثبت نام | ورود</a>
 
-                </div>
+</div>
               </div>
             </div>
           </nav>
 
-    </header>
+</header>
     <!--  -->
     <img src="../img/ar.jpg" class="w-100" style="opacity: .09;" alt="">
     <section class="section1 container" style="position: relative;">
 
-      <div class=" sec">
+ <div class=" sec">
         
-      <div class="dsec1">
+<div class="dsec1">
         <h1 style="color: rgb(86, 2, 82);">
           مدرس: دکتر حسین عابدی
         </h1>
@@ -381,11 +376,11 @@ body{
         </p>
       </div>
 
-      <div>
+ <div>
         <img src="../img/Online+Training.jpg" alt="" style="width: 30rem; border-radius: 1rem;">
         </div>
       
-      </div>
+ </div>
 
       
       <div class="">
