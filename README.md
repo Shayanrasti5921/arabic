@@ -694,3 +694,109 @@ body{
     <script href="../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="../css/arabi.css">
+    <link rel="stylesheet" href="../css/bootstrap.rtl.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="icon" href="../img/م.jpeg">
+    <link rel="stylesheet" href="/html/arabi.html">
+</head>
+<body>
+    <header class="header container " >
+      <div class="alert alert-warning alert-dismissible fade show" style="position: fixed; z-index: 100; opacity: .9;" role="alert">
+        <strong><a href="singup.html">ثبت نام</a> </strong>لطفا اگر در سایت ثبت نام نکرده اید این کار را انجام دهید.
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+        <nav class="navbar navbar-expand-lg">
+            <a href="../html/arabi.html">
+            <img style="height: 5rem; width: 7rem;border-radius: 12rem; color: aliceblue !important;background-color: wheat;" src="../img/م.jpeg" alt="">
+            </a>
+            <div class="container-fluid" >
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarText">
+                <span class="navbar-text " style="margin-left: 2rem; opacity: .7;">
+                    با آکادمی ما درخشان شوید
+                  </span>
+                <ul class="navbar-nav  mb-2 mb-lg-0 p-2" style="margin-left: 28rem;">
+                  <li class="nav-item">
+                    <a class="nav-link active  hov" aria-current="page" href="../html/arabi.html">خانه</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link  hov" href="#">امکانات</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link  hov" href="../html/arabi.html">درباره ما</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link  hov mx_link" href="#">باشگاه مشتریان</a>
+                  </li>
+                </ul>
+                
+                <div style=" position: absolute; left: 0; z-index: 100;">
+              <a  class="navbar-brand  hov me-" style="padding-left: 1rem; padding-right: 1rem;" href="../html/login.html">ثبت نام | ورود</a>
+
+                </div>
+              </div>
+            </div>
+          </nav>
+
+    </header>
+    <!--  -->
+    
+    <section class="section-2-1">
+
+      <div class="box-about container">
+
+      </div>
+    </section>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>  
+
+    <script href="../js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
